@@ -24,4 +24,3 @@
 
 - **Profesor**: Paul Landaeta
 - **Correo Electrónico**: paullandaeta@upb.edu
-
