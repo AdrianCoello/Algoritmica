@@ -19,7 +19,7 @@ Se crea un vector de listas (uno para cada nodo).
 Cada lista contiene los nodos adyacentes al nodo correspondiente.
 **Salida:**
 Se imprime la lista de adyacencia para visualizar el grafo.
-# Nota
+## Nota
 En la carpeta “in”, puedes colocar los datos de entrada, como el número de nodos y las 
 aristas, para probar estos programas. Luego, ejecuta los códigos y observa cómo representan los 
 grafos utilizando matrices de adyacencia y listas de adyacencia, respectivamente.
