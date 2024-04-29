@@ -1,4 +1,4 @@
-#Codigo DFS
+# Codigo DFS
 El código implementa la búsqueda en profundidad (DFS) para determinar si un nodo (persona) puede llegar a otro en una red social (grafo). 
 Imagina que cada persona es un nodo y las conexiones entre ellas son aristas. La DFS explora la red a partir de una persona (nodo inicial), siguiendo 
 sus conexiones (vecinos) hasta llegar al objetivo (nodo final). Si la DFS marca al nodo final como visitado, significa que la persona inicial sí puede 
