@@ -1,4 +1,4 @@
-# Programa 1: Arreglo#
+# Programa 1: Arreglo
 En este programa, creamos un arreglo llamado array con 10 elementos, todos inicializados en 0. Luego, mostramos cómo leer y escribir en el arreglo.
 
 # Programa 2: Pila
