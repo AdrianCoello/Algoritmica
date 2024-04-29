@@ -1,5 +1,5 @@
 # Programa: Uso de la Clase list en C++
-Este programa ilustra cómo utilizar la clase **list** en C++. La clase **list** proporciona una implementación de una lista doblemente enlazada. 
+Este programa muestra cómo utilizar la clase **list** en C++. La clase **list** proporciona una implementación de una lista doblemente enlazada. 
 A continuación, se explica el funcionamiento del código:
 
 # Creación de una Lista (listita):
