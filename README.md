@@ -1,27 +1,20 @@
-# Curso Algorítmica - UPB
+# Repositorio Segundo Parcial
 
-¡Hola! Soy **Adrián Coello**, y soy estudiante de la **Universidad Privada Boliviana**, este es el curso de **Algoritmica** de la Universidad. Permíteme compartir contigo mi perspectiva sobre el desarrollo de 
-este curso:
+Este repositorio contiene ejemplos de código en C++. Cada carpeta dentro del repositorio tiene su propio README que explica la funcionalidad de cada programa.
 
-## Descubriendo el Mundo de los Algoritmos
+## Pasos para Utilizar el Repositorio
 
-- **Clases Intensivas**: Cada semana, nos sumergimos en un mar de algoritmos y estructuras de datos. Desde listas hasta grafos, estamos aprendiendo cómo representar y manipular información de manera eficiente.
+1. **Clonar el Repositorio:**
+   - Clona este repositorio en tu máquina local utilizando el siguiente comando:
+     ```
+     git clone https://github.com/tu-usuario/repo-ejemplos-cpp.git
+     ```
 
-- **Resolviendo Problemas Desafiantes**: Los problemas que enfrentamos no son triviales. A veces, pasamos horas pensando en la mejor manera de abordarlos. Pero cada solución nos hace más fuertes y más astutos.
+2. **Explorar las Carpetas:**
+   - Cada carpeta dentro del repositorio representa un programa o concepto específico en C++. Explora las carpetas para encontrar ejemplos relevantes.
 
-- **Compartiendo con Compañeros**: Las discusiones en clase son fascinantes. Aprendemos no solo de los profesores, sino también de nuestros compañeros. Cada uno tiene su enfoque único para resolver problemas.
+3. **Leer los README de las Carpetas:**
+   - Dentro de cada carpeta, encontrarás un archivo README que explica en detalle qué hace cada programa. Lee estos README para comprender la funcionalidad.
 
-## Habilidades que Estoy Desarrollando
-
-1. **Pensamiento Analítico**: Aprendemos a desglosar problemas complejos en partes más pequeñas. Esto nos ayuda a encontrar soluciones paso a paso.
-
-2. **Creatividad**: A veces, la solución más ingeniosa es la correcta. Estamos aprendiendo a pensar fuera de lo común y a ser creativos en nuestras estrategias.
-
-3. **Optimización del Código**: No solo queremos que funcione; queremos que funcione rápido. Estamos midiendo el tiempo y la memoria, y buscando maneras de mejorar nuestras soluciones.
-
-4. **Trabajo en Equipo**: En las competencias, trabajamos en equipo para resolver problemas. Aprendemos a comunicarnos eficientemente y a aprovechar las fortalezas de cada miembro.
-
-## Información del Profesor
-
-- **Profesor**: Paul Landaeta
-- **Correo Electrónico**: paullandaeta@upb.edu
+4. **Compilar y Ejecutar los Programas:**
+   - Utiliza tu compilador de C++ favorito (por ejemplo, g++, Visual Studio Code, etc.) para compilar los archivos fuente.
